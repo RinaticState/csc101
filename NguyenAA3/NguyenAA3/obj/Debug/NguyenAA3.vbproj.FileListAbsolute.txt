@@ -1,0 +1,52 @@
+c:\users\nghi\documents\visual studio 2015\Projects\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe.config
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.pdb
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.xml
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbprojResolveAssemblyReference.cache
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Form1.resources
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Resources.resources
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbproj.GenerateResource.Cache
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.exe
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.xml
+C:\Users\Nghi\Documents\Visual Studio 2015\Projects\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.pdb
+E:\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe.config
+E:\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.exe
+E:\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.xml
+E:\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.pdb
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe.config
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.exe
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.xml
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.pdb
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.pdb
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.xml
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbprojResolveAssemblyReference.cache
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Form1.resources
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Resources.resources
+C:\Users\amber\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbproj.GenerateResource.Cache
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe.config
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.exe
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.xml
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.pdb
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.pdb
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.xml
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbprojResolveAssemblyReference.cache
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Form1.resources
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Resources.resources
+C:\Users\Nghi\Desktop\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbproj.GenerateResource.Cache
+C:\Users\Nghi\Desktop\New folder\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe.config
+C:\Users\Nghi\Desktop\New folder\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.exe
+C:\Users\Nghi\Desktop\New folder\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.xml
+C:\Users\Nghi\Desktop\New folder\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe.config
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.exe
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.xml
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.exe
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\bin\Debug\NguyenAA3.xml
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbprojResolveAssemblyReference.cache
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Form1.resources
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.Resources.resources
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA3\NguyenAA3\obj\Debug\NguyenAA3.vbproj.GenerateResource.Cache
