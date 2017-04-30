@@ -1,0 +1,12 @@
+C:\Users\amber\Desktop\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.exe.config
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.exe.config
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.exe
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.xml
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.vbprojResolveAssemblyReference.cache
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.Form1.resources
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.Resources.resources
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.vbproj.GenerateResource.Cache
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.exe
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.xml
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA2\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.pdb

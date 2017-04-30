@@ -1,0 +1,16 @@
+C:\Users\amber\Desktop\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.exe.config
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.exe.config
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.exe
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.pdb
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\bin\Debug\NguyenAA22.xml
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.vbprojResolveAssemblyReference.cache
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.Form1.resources
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.Resources.resources
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.vbproj.GenerateResource.Cache
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.exe
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.xml
+C:\Users\Nghi\Desktop\NguyenAA22\NguyenAA22\obj\Debug\NguyenAA22.pdb
+C:\Users\amber\Desktop\NguyenAA2\NguyenAA22\bin\Debug\NguyenAA22.exe.config
+C:\Users\amber\Desktop\NguyenAA2\NguyenAA22\obj\Debug\NguyenAA22.exe
+C:\Users\amber\Desktop\NguyenAA2\NguyenAA22\obj\Debug\NguyenAA22.xml
+C:\Users\amber\Desktop\NguyenAA2\NguyenAA22\obj\Debug\NguyenAA22.pdb
