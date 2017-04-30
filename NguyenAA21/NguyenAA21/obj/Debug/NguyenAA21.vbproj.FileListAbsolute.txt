@@ -1,0 +1,22 @@
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.exe.config
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.exe
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.pdb
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.xml
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.vbprojResolveAssemblyReference.cache
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.Form1.resources
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.Resources.resources
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.vbproj.GenerateResource.Cache
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.exe
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.xml
+C:\Users\amber\Desktop\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.exe.config
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.exe
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.xml
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.exe
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.pdb
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\bin\Debug\NguyenAA21.xml
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.vbprojResolveAssemblyReference.cache
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.Form1.resources
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.Resources.resources
+C:\Users\amber\Documents\Computer Science 101 Hager\NguyenAA21\NguyenAA21\obj\Debug\NguyenAA21.vbproj.GenerateResource.Cache
